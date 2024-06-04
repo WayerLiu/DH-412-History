@@ -3,7 +3,7 @@
 ## Abstract
 
 ## Codes Contents
-* `data` folder: contains all data that extracted [ctext](https://ctext.org/)
+* `data` folder: contains all Confucianism data that extracted [ctext](https://ctext.org/)
 * `01_preproccesing.ipynb`: making tidy datasets and doing word segmentation
 * `02_cooccurence.ipynb`: Conducting co-occurrence analysis
 * `03_bertopic.ipynb`: Performing topic modeling using BERTopic
